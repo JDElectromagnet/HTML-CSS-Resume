@@ -1,1 +1,21 @@
-/* Your CSS styles go here */
+@font-face {
+  font-family: fb;
+
+  src: url('AGENCYR.TTF');
+}
+
+body{
+  background-color: darkgrey;
+  font-family: fb;
+}
+
+.header{
+
+  background-color: green;
+  padding-top: 0px;
+
+}
+
+h2{
+  text-align: center;
+}
